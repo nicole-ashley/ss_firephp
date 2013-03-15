@@ -1,7 +1,8 @@
 {
-	"name": "nikrolls/SS_FirePHP",
+	"name": "nikrolls/ss_firephp",
 	"description": "A module to allow easy installation of FirePHP in Silverstripe.",
 	"type": "silverstripe-module",
+	"license": "BSD-3-Clause",
 	"keywords": ["silverstripe", "FirePHP", "Firebug"],
 	"authors": [
 	{
