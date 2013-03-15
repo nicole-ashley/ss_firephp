@@ -4,7 +4,7 @@
 if (@include_once('FirePHPCore/fb.php')) {
 	$status = "via PEAR.";
 // If not installed in PEAR, load the version included in this module
-} else if (@include_once (__DIR__ . '/core/lib/fb.php')) {
+} else if (@include_once (__DIR__ . '/code/core/lib/fb.php')) {
 	$status = "via SS_FirePHP.";
 } else {
 	user_error('FirePHP PEAR module was not found, and the included FirePHP Core is corrupt.');
