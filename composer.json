@@ -1,0 +1,16 @@
+{
+	"name": "nikrolls/SS_FirePHP",
+	"description": "A module to allow easy installation of FirePHP in Silverstripe.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "FirePHP", "Firebug",],
+	"authors": [
+	{
+		"name": "Nik Rolls",
+		"email": "nik@rolls.cc"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "2.4"
+	}
+}
