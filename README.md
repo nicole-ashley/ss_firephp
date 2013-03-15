@@ -4,7 +4,7 @@ SS_FirePHP
 A module to allow easy installation of FirePHP in Silverstripe.
 
 ## Requirements
-* SilverStripe 3.0 (probably also works with previous versions, but this has not been tested)
+* SilverStripe 2.4 (probably also works with previous versions, but this has not been tested)
 * FirePHP PEAR module (optional, otherwise an included fallback will be used)
 
 ## Installation
