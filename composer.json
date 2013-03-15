@@ -1,5 +1,5 @@
 {
-	"name": "nikrolls/SS_FirePHP",
+	"name": "nikrolls/ss_firephp",
 	"description": "A module to allow easy installation of FirePHP in Silverstripe.",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "FirePHP", "Firebug"],
