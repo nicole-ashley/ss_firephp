@@ -17,6 +17,6 @@ For automatic Dev/Test/Live detection, please ensure that the root folder sorts 
 	FB::setEnabled(true);
 
 ## Usage
-You can use SS_FirePHP exactly how you would use standalone FirePHP, as documented at [FirePHP HQ](http://www.firephp.org/HQ/Use.htm).
+You can use SS_FirePHP the same way you would use standalone FirePHP, as documented at [FirePHP HQ](http://www.firephp.org/HQ/Use.htm).
 
 You can use the [Firefox FireBug extension](https://addons.mozilla.org/en-US/firefox/addon/firephp/ "FirePHP for Firebug and Firefox") or the [Webug extension for Google Chrome](https://chrome.google.com/webstore/detail/cjbeipenlpoeifpkjhgakejmikdhlhcj "Webug for Google Chrome) to view the output.
