@@ -8,7 +8,7 @@ A module to allow easy installation of FirePHP in Silverstripe.
 * FirePHP PEAR module (optional, otherwise an included fallback will be used)
 
 ## Installation
-* Download the module from here [https://github.com/nikrolls/SS_FirePHP/downloads](https://github.com/nikrolls/SS_FirePHP/downloads).
+* Download the source code from here [https://github.com/nikrolls/SS_FirePHP/](https://github.com/nikrolls/SS_FirePHP/).
 * Extract the downloaded archive into your site root, or a subfolder that has its own `_config.php`.
 * Run `/dev/build?flush=all` to regenerate the manifest and detect the module.
 
