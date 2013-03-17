@@ -1,7 +1,7 @@
 SS_FirePHP
 ==========
 
-A module to allow easy installation of FirePHP in Silverstripe.
+A module to allow easy installation of FirePHP in Silverstripe. Adapted from here: [http://www.sspaste.com/paste/show/4e3bd4a2a1fae](http://www.sspaste.com/paste/show/4e3bd4a2a1fae)
 
 ## Requirements
 * SilverStripe 2.4 (probably also works with previous versions, but this has not been tested)
